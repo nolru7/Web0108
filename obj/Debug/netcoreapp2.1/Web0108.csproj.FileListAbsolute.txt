@@ -1,0 +1,14 @@
+C:\Users\gd8\Desktop\0108\Web0108\bin\Debug\netcoreapp2.1\Web0108.deps.json
+C:\Users\gd8\Desktop\0108\Web0108\bin\Debug\netcoreapp2.1\Web0108.runtimeconfig.json
+C:\Users\gd8\Desktop\0108\Web0108\bin\Debug\netcoreapp2.1\Web0108.runtimeconfig.dev.json
+C:\Users\gd8\Desktop\0108\Web0108\bin\Debug\netcoreapp2.1\Web0108.dll
+C:\Users\gd8\Desktop\0108\Web0108\bin\Debug\netcoreapp2.1\Web0108.pdb
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.csprojAssemblyReference.cache
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.csproj.CoreCompileInputs.cache
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.RazorAssemblyInfo.cache
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.RazorAssemblyInfo.cs
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.AssemblyInfoInputs.cache
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.AssemblyInfo.cs
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.RazorTargetAssemblyInfo.cache
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.dll
+C:\Users\gd8\Desktop\0108\Web0108\obj\Debug\netcoreapp2.1\Web0108.pdb
